@@ -1,0 +1,39 @@
+# Query: h2
+# ContextLines: 1
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Atividade 02 </title>
+</head>
+<body>
+
+    <h1>Atividade 02</h1>
+    Esta palavra está em <b> Negrito</b>
+    Persista com coragem,<br>
+    abaraçando sesafios.
+    <p>Persista com coragem,</p>
+    <p>abraçando desafios.</p>
+    
+<wl>
+    <li>Item 1</li>
+    <li>Item 2</li>
+    <li>Item 3</li>  
+</wl> 
+
+<ol>
+    <li>Primeiro</li>
+    <li>Segundo</li>
+    <li>Terceiro</li>
+
+</ol>
+
+<<ing height="30px" src="https://suap.ifpi.edu.br/media/configuracao/logo-ifpi-transp.png">
+
+<hr>
+   
+    
+</body>
+</html>
